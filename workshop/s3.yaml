@@ -8,6 +8,8 @@ Resources:
           Value: Sovereign
         - Key: Tag
           Value: Fine
+        - Key: WS
+          Value: Example
       BucketName: !Join
         - "-"
         - - "starship-bay3"
