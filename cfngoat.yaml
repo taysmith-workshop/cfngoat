@@ -486,7 +486,7 @@ Resources:
       MultiAZ: False
       BackupRetentionPeriod: 0
       StorageEncrypted: False
-      MonitoringInterval: 0
+      MonitoringInterval: true
       PubliclyAccessible: True
       Tags:
         - Key: Name
